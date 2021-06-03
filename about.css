@@ -172,15 +172,15 @@ body {
   opacity: 0.4;
 }
 .element.franklin {
-  background: url('./assets/me (1).png') 45% 0 no-repeat;
+  background: url('./assets/me.png') 45% 0 no-repeat;
   background-size: cover;
 }
 .element.michael {
-  background: url('./assets/amresh (3).jpeg') 45% 0 no-repeat;
+  background: url('./assets/amresh.jpeg') 45% 0 no-repeat;
   background-size: cover;
 }
 .element.trevor {
-  background: url('./assets/dhanush (2).jpg') 45% 0 no-repeat;
+  background: url('./assets/dhanush.jpg') 45% 0 no-repeat;
   background-size: cover;
 }
 .element:last-of-type {
